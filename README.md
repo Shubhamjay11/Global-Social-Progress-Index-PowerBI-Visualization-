@@ -46,7 +46,8 @@ Using this dataset, we can answer a number of questions about the social progres
 8) Analyzing the impact of COVID-19 on the SPI scores.
 9) Assessing the potential impact of a war between an Asian and a European country on the global SPI score.
 10) Identifying which global issues must be addressed as the highest priority according to the SPI score and why.
-11) The SPI dataset is a powerful tool for understanding the social progress of countries around the world and identifying areas for improvement. By answering these questions, we can gain a deeper understanding of the social and environmental needs of citizens and work towards creating a more equitable and sustainable future for all.
+
+The SPI dataset is a powerful tool for understanding the social progress of countries around the world and identifying areas for improvement. By answering these questions, we can gain a deeper understanding of the social and environmental needs of citizens and work towards creating a more equitable and sustainable future for all.
 
 ![image](https://user-images.githubusercontent.com/116708200/213845741-767f7780-7a7b-45c4-9081-9c7f5fedbbb6.png)
 
